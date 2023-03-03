@@ -1,1 +1,20 @@
+.container {
+	display: flex;
+}
 
+.img-details {
+	display: flex;
+	padding: 20px;
+	justify-content: centre;
+	align-items: centre;
+	flex-flow: row wrap;
+}
+
+.img {
+	width: 150px;
+}
+
+.personal-details span{
+	font-weight: 700;
+	margin-right: 3px;
+}
